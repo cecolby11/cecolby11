@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 👩🏼‍💻 Developing Node.js applications on AWS, for the Cloud Development and Operations team at Northwestern University. 
+  - 🌱 Currently learning Laravel on the fly! Working on a workflow system for running opportunities such as undergraduate research grants.
+- 💬 Ask me about Terraform!
 
 <!--
 **cecolby11/cecolby11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
