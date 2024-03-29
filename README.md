@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👩🏼‍💻 Developing Node.js applications on AWS, for the Cloud Development and Operations team at Northwestern University. 
+- 👩🏼‍💻 Developing applications on AWS, for the Cloud Services and Integrations team at Northwestern University. 
   - 🌱 Currently learning Laravel on the fly! Working on a workflow system for running opportunities such as undergraduate research grants.
 - 💬 Ask me about Terraform!
 
